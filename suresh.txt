@@ -1,1 +1,1 @@
-hi this is edited in remote repository directly
+hi this is edited in remote repository
